@@ -1,0 +1,2 @@
+!function(n,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=function(){return"Hola, ".concat(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"Luis")}:"function"==typeof define&&define.amd?define(function(){return function(){return"Hola, ".concat(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"Luis")}}):n.ultimanpm=function(){return"Hola, ".concat(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"Luis")}}(this);
+//# sourceMappingURL=index.umd.js.map

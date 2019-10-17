@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["const Saludando=(name = \"Luis\")=> {\r\n  return `Hola, ${name}`;\r\n};\r\n\r\nexport default Saludando;"],"names":[],"mappings":"eAAgB,wFAAQ"}
