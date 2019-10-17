@@ -1,0 +1,1 @@
+export default function Saludando(name: string): string;
