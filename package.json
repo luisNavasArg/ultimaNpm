@@ -39,6 +39,6 @@
     "lint-staged": "^9.4.2",
     "microbundle": "^0.11.0",
     "prettier": "^1.18.2",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   }
 }
